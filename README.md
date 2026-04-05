@@ -1,2 +1,3 @@
-# archand
-A hand gesture that let me control my arch linux.
+Nothing to see here 
+
+*** UNDER CONSTUCTION ***
